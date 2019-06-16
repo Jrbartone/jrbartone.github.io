@@ -1,0 +1,18 @@
+{
+  "name": "joes-website",
+  "version": "1.0.0",
+  "description": "it's probably gonna work",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joe Bartone",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
